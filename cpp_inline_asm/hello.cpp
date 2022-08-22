@@ -7,7 +7,7 @@ int main() {
         "hello:;"
         "mov $4, %eax;"
         "mov $1, %ebx;"
-        "mov helloWrld, %ecx;"
+        "mov helloP, %ecx;"
         "mov $13, %edx;"
         "int $0x80"
     );
